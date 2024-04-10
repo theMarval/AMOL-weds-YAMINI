@@ -12,7 +12,10 @@
       background-position: 3000px 1500px;
   }
 }
-
+.NAMESAPCE{
+  max-width: 50px;
+  max-height: 450px;
+}
 
 
 
@@ -71,7 +74,7 @@ a{
 }
 
 .img-4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04394.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04394.jpg');
   background-position: center;
 }
 
@@ -117,6 +120,10 @@ a{
 .text-center-{
  display: flex;
 }
+.NAMESAPCE{
+  max-height: 350px;
+}
+
 }
 
 .ls-3 {
