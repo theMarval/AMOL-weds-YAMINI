@@ -73,8 +73,8 @@ a{
   background-position: center;
 }
 
-.img-4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04394.jpg');
+.img-5 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04394.JPG');
   background-position: center;
 }
 
@@ -94,7 +94,7 @@ a{
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP03937.JPG');
   background-position: center;
 }
-.img-5{
+.img-4{
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('DPP04190.JPG');
   background-position: center;
 }
